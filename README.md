@@ -5,8 +5,7 @@
  [献给母亲](https://lanjiannull.github.io/happyMotherDay/#/bored)
 
 
-![image](https://github.com/LanjianNUll/happyMotherDay/blob/main/doc/img/bg.png)
-
+![image](https://github.com/LanjianNUll/happyMotherDay/blob/main/docs/img/bg.png)
 
 
  Released under the MIT [License](LICENSE)
